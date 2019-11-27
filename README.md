@@ -13,13 +13,13 @@ A decision record (DR) is a way to initiate, debate, and archive an important ch
 
 Contents:
 
-* [What is an architecture decision record?](#what-is-an-architecture-decision-record)
-* [How to start using decision records](#how-to-start-using-adrs)
-* [How to start using decision records with tools](#how-to-start-using-adrs-with-tools)
-* [How to start using decision records with git](#how-to-start-using-adrs-with-git)
-* [decision record file name conventions](#adr-file-name-conventions)
-* [Suggestions for writing good decision records](#suggestions-for-writing-good-adrs)
-* [decision record example templates](#adr-example-templates)
+* [What is a decision record?](#what-is-a-decision-record)
+* [Decision record template](#decision-record-template)
+* [How to start using decision records](#how-to-start-using-decision-records)
+* [How to start using decision records with tools](#how-to-start-using-decision-records-with-tools)
+* [How to start using decision records with git](#how-to-start-using-decision-records-with-git)
+* [Decision record file name conventions](#decision-record-file-name-conventions)
+* [Suggestions for writing good decision records](#suggestions-for-writing-good-decision-records)
 * [For more information](#for-more-information)
 
 
