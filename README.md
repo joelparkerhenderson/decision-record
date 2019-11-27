@@ -48,6 +48,30 @@ Abbreviations:
   * **SR**: significant requirement
 
 
+## Decision record template
+
+See our file [template.md](template.md) which uses these major sections:
+
+  * **Title**: short present tense imperative up to 50 characters.
+
+  * **Status**: request for comments | proposed | accepted | rejected | deprecated | superseded
+
+  * **Issue**: describe the issue you want to address, and leave no questions about why.
+  
+  * **Assumptions**: describe any assumptions, premises, cross-project requirements, etc.
+  
+  * **Constraints**: capture any constraints to the environment this decision might pose. 
+
+  * **Positions**: list the positions, which are the viable options a.k.a. alternatives.
+
+  * **Opinions**: by the team and stakeholders, and also third-party advisors and reviewers.
+
+  * **Selection**: explain why you selected a position, with purspose and accountability.
+
+  * **Implications**: state your decision’s implications, such as any need for changes.
+
+  * **Related**: such as for references, cross-project work, and follow on needs.
+  
 
 ## How to start using decision records
 
