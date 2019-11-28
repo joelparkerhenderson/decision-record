@@ -125,7 +125,9 @@ The important result is that teams can use decision records and templates to imp
 
 The advantages of decision records tend to grow with team size, project expansion, integration opportunities, stakeholder involvement, long term maintenance, and evolution over time.
 
-For example, we use decision records with teams of dozens of people, across multiple departments, multiple partner organizations, and multiple-year projects that involve million-dollar budgets. With this kind of size scope, we prefer using some kinds of structured communication over just freeform notes.
+For example, we use decision records with large teams, and across multiple departments, and with multiple partner organizations, and on multiple-year projects, and million-dollar budgets. With this kind of size and scope, we prefer using some kinds of structured communication over just freeform notes.
+
+In practice, we also like using decision records because they encourage more participation among remote teammates, more asynchronous communication, more efficient evalation of options, and more summarization going forward. All of these aspects also help onboard new teammates because the decisions are clear, complete, succinct, and recorded.
 
 
 ## How to start using decision records with tools
