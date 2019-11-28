@@ -26,11 +26,11 @@ Contents:
 
 A **decision record** (DR) is a way to initiate, debate, and archive an important choice, along with its context and consequences.
 
-An **decision log** (DL) is the collection of all DRs created and maintained for a particular project (or organization).
+A **decision log** (DL) is the collection of all DRs created and maintained for a particular project (or organization).
 
 A **decision** in this context is an organization's choice that addresses a significant requirement.
 
-An **significant requirement** (SR) is a project's need that has a measurable effect on a project's system.
+A **significant requirement** (SR) is a project's need that has a measurable effect on a project's system.
 
 All these terms are within the topic of **knowledge management** (KM).
 
