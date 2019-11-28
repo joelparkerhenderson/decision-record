@@ -16,6 +16,7 @@ Contents:
 * [What is a decision record?](#what-is-a-decision-record)
 * [Decision record template](#decision-record-template)
 * [How to start using decision records](#how-to-start-using-decision-records)
+* [Why is a decision record better than just notes?](#why-is-a-decision-record-better-than-just-notes)
 * [How to start using decision records with tools](#how-to-start-using-decision-records-with-tools)
 * [How to start using decision records with git](#how-to-start-using-decision-records-with-git)
 * [Decision record file name conventions](#decision-record-file-name-conventions)
@@ -122,6 +123,17 @@ Decision guidance:
   * The steps above are adopted from the Wikipedia entry on [Architectural Decision](https://en.wikipedia.org/wiki/Architectural_decision)
 
   * A number of decision making techniques exists, both general ones and software and software architecture specific ones, for instance, dialogue mapping.
+
+
+## Why are decision records better than just notes?
+
+A decision record adds some structure to freeform notes.
+
+A decision record template adds a list of items to cover, which functions as a checklist.
+
+The important result is that teams can use decision records and templates to improve teamwork: the decision records and templates both work as checklists, that help the team ensure they cover all the bases, and they communicate efficiently and effectively.
+
+The advantages of decision records tend to grow with team size, project expansion, integration opportunities, stakeholder involvement, long term maintenance, and evolution over time.
 
 
 ## How to start using decision records with tools
