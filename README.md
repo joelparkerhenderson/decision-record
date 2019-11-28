@@ -36,17 +36,7 @@ An **significant requirement** (SR) is a project's need that has a measurable ef
 
 All these terms are within the topic of **knowledge management** (KM).
 
-The goal of this document is to provide a fast overview of descion records, including how to create them, and where to look for more information.
-
-Abbreviations:
-
-  * **DL**: decision log
-
-  * **DR**: decision record
-
-  * **KM**: knowledge management
-
-  * **SR**: significant requirement
+The goal of this document is to provide a fast overview of descion records.
 
 
 ## Decision record template
