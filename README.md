@@ -16,10 +16,8 @@ Contents:
 * [What is a decision record?](#what-is-a-decision-record)
 * [Decision record template](#decision-record-template)
 * [How to start using decision records](#how-to-start-using-decision-records)
-* [Why is a decision record better than just notes?](#why-is-a-decision-record-better-than-just-notes)
+* [Why are decision records better than just notes?](#why-are-decision-records-better-than-just-notes)
 * [How to start using decision records with tools](#how-to-start-using-decision-records-with-tools)
-* [How to start using decision records with git](#how-to-start-using-decision-records-with-git)
-* [Decision record file name conventions](#decision-record-file-name-conventions)
 * [Suggestions for writing good decision records](#suggestions-for-writing-good-decision-records)
 * [For more information](#for-more-information)
 
@@ -136,57 +134,13 @@ You can start using decision records with tools any way you want.
 
 For example:
 
-  * If you like using Google Drive and online editing, then you can create a Google Doc, or Google Sheet.
+  * If you like Google Drive and Google Docs, then create a `decisions` folder, and a doc per decision record.
 
-  * If you like use source code version control, such as git, then you can create a file for each decision record.
+  * If you like source code version control, then create a `decisions` directory, and a text file per decision record.
 
-  * If you like using project planning tools, such as Atlassian Jira, then you can use the tool's planning tracker.
+  * If you like project planning tools, such as Atlassian Jira, then use the tool's planning tracker.
 
-  * If you like using wikis, such as MediaWiki, then you can create an decision record wiki.
-
-
-## How to start using decision records with git
-
-If you like using git version control, then here is how we like to start using decision records with git for a typical software project with source code.
-
-Create a directory for decisions:
-
-```sh
-$ mkdir decisions
-```
-
-For each decision, create a text file, such as `helloworld.txt`, and edit as you like:
-
-```sh
-$ vi helloworld.txt
-```
-
-Write anything you want in the decision record. See the templates in this repository for ideas.
-
-Commit the decision record to your git repo.
-
-
-## Decision record file name conventions
-
-If you choose to create your decision records using typical text files, then you may want to come up with your own decision record file name convention.
-
-We prefer to use this file name convention:
-
-  * The name has a present tense imperative verb phrase. This helps readability and matches our commit message format.
-
-  * The name uses lowercase and underscores (same as this repo). This is a balance of readability and system usability.
-
-  * The extension is markdown. This can be useful for easy formatting.
-
-Examples:
-
-  * choose-databases.md
-
-  * format-timestamps.md
-
-  * manage-passwords.md
-
-  * handle-exceptions.md
+  * If you like wikis, such as MediaWiki, then create an decision record wiki, with a wiki page per decision record.
 
 
 ## Suggestions for writing good decision records
