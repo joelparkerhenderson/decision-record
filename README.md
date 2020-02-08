@@ -51,7 +51,7 @@ See our file [template.md](template.md) which uses these major sections:
   
   * **Constraints**: capture any constraints to the environment this decision might pose. 
 
-  * **Positions**: list the positions, which are the viable options a.k.a. alternatives.
+  * **Positions**: list the potential candidate options as facts and data, not opinions.
 
   * **Opinions**: by the team and stakeholders, and also third-party advisors and reviewers.
 

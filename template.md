@@ -36,9 +36,9 @@ Example constraints may involve platform choices, vendor selections, the ease of
 
 ## Positions
 
-List the positions, which are the viable options that you are considering, or have considered.
+List the positions, which are the viable options that you are considering, or have considered. 
 
-The positions can often require long explanations, sometimes even models and diagrams. 
+Use facts and data, not opinions. The positions can often require long explanations, sometimes even models and diagrams. 
 
 This doesn't need to be an exhaustive list; however, you don’t want to hear the question "Did you think about...?" during a final review, because this would lead to loss of credibility and questioning of other architectural decisions. 
 
