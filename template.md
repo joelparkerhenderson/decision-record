@@ -70,7 +70,7 @@ Summary: briefly explain this section, and ideally highlight any outliers.
 
   * Weaknesses
 
-  * Opportunites
+  * Opportunities
 
   * Threats
 
@@ -93,12 +93,12 @@ Some teams like to add these as their own categories:
 
   * Regulatory factors - we prefer have these in the political factors.
 
-  * Environmental factors - we prefer to have these in the econonmic factors.
+  * Environmental factors - we prefer to have these in the economic factors.
 
   * Demographic factors - we prefer to have these in the social factors.
 
 
-### Other analyis (add your own ideas here)
+### Other analysis (add your own ideas here)
 
 Add your own ideas here...
 
@@ -159,7 +159,7 @@ Decisions should be purpose-driven. To show accountability, explicitly map your 
 
 The argument is probably as important as the decision itself.
 
-This doesn't need to be an exhaustive writeup; however, you don’t want to hear the question "Did you think about...?" during a final review, because (as above) this would lead to loss of credibility and questioning of other architectural decisions. 
+This doesn't need to be an exhaustive write-up; however, you don’t want to hear the question "Did you think about...?" during a final review, because (as above) this would lead to loss of credibility and questioning of other architectural decisions. 
 
 
 ## Implications
@@ -193,7 +193,7 @@ We’ve found it more convenient to reference a traceability matrix. You can ass
 
 List any related artifacts here. 
 
-Example are any scope documents, planning documents, business process models, etc., that this decision impacts.
+Examples are any scope documents, planning documents, business process models, etc., that this decision impacts.
 
 ## Related principles
 
