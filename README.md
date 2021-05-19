@@ -1,8 +1,8 @@
 <!--
   * browser: decision-record
   * tracker: fc94c9c34370b9b2f36270aac1deca20
-  * version: 1.2.0
-  * updated: 2018-12-25T02:39:34Z
+  * version: 2.0.0
+  * updated: 2021-05-19T19:10:54Z
   * contact: Joel Parker Henderson (http://joelparkerhenderson.com)
   * options: commentable
 -->
