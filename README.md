@@ -39,7 +39,7 @@ The goal of this document is to provide a fast overview of descion records.
 
 ## Decision record template
 
-See our file [template.md](template.md) which uses these major sections:
+See our file [template.md](blob/main/template/template.md) which uses these major sections:
 
   * **Title**: short present tense imperative up to 50 characters.
 
