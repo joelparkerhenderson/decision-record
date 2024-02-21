@@ -13,13 +13,13 @@ A decision record (DR) is a way to initiate, debate, and archive an important ch
 
 Contents:
 
-* [What is a decision record?](#what-is-a-decision-record)
-* [Decision record template](#decision-record-template)
-* [How to start using decision records](#how-to-start-using-decision-records)
-* [Why are decision records better than just notes?](#why-are-decision-records-better-than-just-notes)
-* [How to start using decision records with tools](#how-to-start-using-decision-records-with-tools)
-* [Suggestions for writing good decision records](#suggestions-for-writing-good-decision-records)
-* [For more information](#for-more-information)
+- [What is a decision record?](#what-is-a-decision-record)
+- [Decision record template](#decision-record-template)
+- [How to start using decision records](#how-to-start-using-decision-records)
+- [Why are decision records better than just notes?](#why-are-decision-records-better-than-just-notes)
+- [How to start using decision records with tools](#how-to-start-using-decision-records-with-tools)
+- [Suggestions for writing good decision records](#suggestions-for-writing-good-decision-records)
+- [For more information](#for-more-information)
 
 
 ## What is a decision record?
@@ -176,7 +176,7 @@ A new decision record may take the place of a previous decision record:
 
 Introduction:
 
-  * [Architectural decision record)](https://github.com/joelparkerhenderson/architecture_decision_record)
+  * [Architectural decision record](https://github.com/joelparkerhenderson/architecture_decision_record)
 
   * [Architectural decision (wikipedia.org)](https://wikipedia.org/wiki/Architectural_decision)
 
