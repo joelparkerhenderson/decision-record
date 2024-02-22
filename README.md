@@ -34,7 +34,7 @@ A **significant requirement** (SR) is a project's need that has a measurable eff
 
 All these terms are within the topic of **knowledge management** (KM).
 
-The goal of this document is to provide a fast overview of descion records.
+The goal of this document is to provide a fast overview of decision records.
 
 
 ## Decision record template
@@ -55,7 +55,7 @@ See our file [template.md](/template/template.md) which uses these major section
 
   * **Opinions**: by the team and stakeholders, and also third-party advisors and reviewers.
 
-  * **Selection**: explain why you selected a position, with purspose and accountability.
+  * **Selection**: explain why you selected a position, with purpose and accountability.
 
   * **Implications**: state your decision’s implications, such as any need for changes.
 
@@ -100,7 +100,7 @@ Decision sharing (optional):
 
 Decision documentation:
 
-  * Many templates and tools exisit for decisison planning and decision capturing.
+  * Many templates and tools exist for decision planning and decision capturing.
 
   * See agile communities, e.g. M. Nygard's architectural decision records.
 
